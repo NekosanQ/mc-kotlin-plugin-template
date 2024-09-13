@@ -1,0 +1,5 @@
+name: KotlinPluginTemplate
+version: "${version}"
+api-version: "${apiVersion}"
+main: net.nekosanq.plugintemplate.KotlinPluginTemplate
+author: nekosanq
